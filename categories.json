@@ -1,0 +1,42 @@
+[
+  {
+    "id": "plain-dosa",
+    "name": "Plain Dosa"
+  },
+  {
+    "id": "mysore-ka-swad",
+    "name": "Mysore Ka Swad"
+  },
+  {
+    "id": "masala-dosa",
+    "name": "Masala Dosa"
+  },
+  {
+    "id": "china-town",
+    "name": "China Town"
+  },
+  {
+    "id": "fancy-dosa",
+    "name": "Fancy Dosa"
+  },
+  {
+    "id": "bhaji-sapret-dosa",
+    "name": "Bhaji Sapret Dosa"
+  },
+  {
+    "id": "pure-swaminarayan",
+    "name": "Pure Swaminarayan"
+  },
+  {
+    "id": "pavbhaji",
+    "name": "Pav Bhaji"
+  },
+  {
+    "id": "pulav",
+    "name": "Pulav"
+  },
+  {
+    "id": "beverages",
+    "name": "Beverages"
+  }
+]
