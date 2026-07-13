@@ -1,0 +1,601 @@
+{
+	"plain-dosa": [
+  {
+    "name": "Butter Plain Dosa",
+    "image": "images/plain-dosa.jpg",
+    "variants": [
+      { "name": "Regular", "price": 80 },
+      { "name": "Cheese", "price": 140 }
+    ]
+  },
+  {
+    "name": "Chatpatti Chatni Dosa",
+    "image": "images/plain-dosa.jpg",
+    "variants": [
+      { "name": "Regular", "price": 130 }
+    ]
+  },
+  {
+    "name": "Garlic Hotty Plain Dosa",
+    "image": "images/plain-dosa.jpg",
+    "variants": [
+      { "name": "Regular", "price": 120 }
+    ]
+  },
+  {
+    "name": "Shezwan Plain Dosa",
+    "image": "images/plain-dosa.jpg",
+    "variants": [
+      { "name": "Cheese", "price": 150 }
+    ]
+  },
+  {
+    "name": "Gwalior Dosa",
+    "image": "images/plain-dosa.jpg",
+    "variants": [
+      { "name": "Regular", "price": 120 },
+      { "name": "Cheese", "price": 150 }
+    ]
+  },
+  {
+    "name": "Chocolate Dosa",
+    "image": "images/plain-dosa.jpg",
+    "variants": [
+      { "name": "Cheese", "price": 150 }
+    ]
+  },
+  {
+    "name": "Mysore Dosa",
+    "image": "images/plain-dosa.jpg",
+    "variants": [
+      { "name": "Regular", "price": 130 },
+      { "name": "Cheese", "price": 160 }
+    ]
+  },
+  {
+    "name": "Nylon Plain Dosa",
+    "image": "images/plain-dosa.jpg",
+    "variants": [
+      { "name": "Regular", "price": 120 },
+      { "name": "Cheese", "price": 150 }
+    ]
+  },
+  {
+    "name": "Children Plain Dosa",
+    "image": "images/plain-dosa.jpg",
+    "variants": [
+      { "name": "Regular", "price": 130 }
+    ]
+  },
+  {
+    "name": "Roasted Garlic Plain",
+    "image": "images/plain-dosa.jpg",
+    "variants": [
+      { "name": "Regular", "price": 120 },
+      { "name": "Cheese", "price": 150 }
+    ]
+  },
+  {
+    "name": "Salad Paper Dosa",
+    "image": "images/plain-dosa.jpg",
+    "variants": [
+      { "name": "Regular", "price": 130 }
+    ]
+  },
+  {
+    "name": "Masala Papad Plain",
+    "image": "images/plain-dosa.jpg",
+    "variants": [
+      { "name": "Regular", "price": 130 }
+    ]
+  },
+  {
+    "name": "Jeera Nylon Plain",
+    "image": "images/plain-dosa.jpg",
+    "variants": [
+      { "name": "Regular", "price": 130 }
+    ]
+  }
+],
+	"mysore-ka-swad": [
+  {
+    "name": "Butter Mysore Masala Dosa",
+    "image": "images/mysore-ka-swad.jpg",
+    "variants": [
+      { "name": "Regular", "price": 160 },
+      { "name": "Cheese", "price": 190 }
+    ]
+  },
+  {
+    "name": "Onion Mysore Dosa",
+    "image": "images/mysore-ka-swad.jpg",
+    "variants": [
+      { "name": "Regular", "price": 170 },
+      { "name": "Cheese", "price": 200 }
+    ]
+  },
+  {
+    "name": "Paneer Mysore Dosa",
+    "image": "images/mysore-ka-swad.jpg",
+    "variants": [
+      { "name": "Regular", "price": 180 },
+      { "name": "Cheese", "price": 200 }
+    ]
+  },
+  {
+    "name": "Green Mysore Dosa",
+    "image": "images/mysore-ka-swad.jpg",
+    "variants": [
+      { "name": "Regular", "price": 170 },
+      { "name": "Cheese", "price": 200 }
+    ]
+  },
+  {
+    "name": "Palak Mysore",
+    "image": "images/mysore-ka-swad.jpg",
+    "variants": [
+      { "name": "Regular", "price": 170 },
+      { "name": "Cheese", "price": 200 }
+    ]
+  },
+  {
+    "name": "Palak Paneer Mysore",
+    "image": "images/mysore-ka-swad.jpg",
+    "variants": [
+      { "name": "Regular", "price": 190 },
+      { "name": "Cheese", "price": 210 }
+    ]
+  }
+],
+	"masala-dosa": [
+  {
+    "name": "Butter Masala Dosa",
+    "image": "images/masala-dosa.jpg",
+    "variants": [
+      { "name": "Regular", "price": 140 },
+      { "name": "Cheese", "price": 170 }
+    ]
+  },
+  {
+    "name": "Onion Masala Dosa",
+    "image": "images/masala-dosa.jpg",
+    "variants": [
+      { "name": "Regular", "price": 150 },
+      { "name": "Cheese", "price": 180 }
+    ]
+  },
+  {
+    "name": "Gwalior Masala Dosa",
+    "image": "images/masala-dosa.jpg",
+    "variants": [
+      { "name": "Regular", "price": 150 },
+      { "name": "Cheese", "price": 180 }
+    ]
+  },
+  {
+    "name": "Paneer Masala Dosa",
+    "image": "images/masala-dosa.jpg",
+    "variants": [
+      { "name": "Regular", "price": 170 },
+      { "name": "Cheese", "price": 190 }
+    ]
+  },
+  {
+    "name": "Aloo Palak Dosa",
+    "image": "images/masala-dosa.jpg",
+    "variants": [
+      { "name": "Regular", "price": 150 },
+      { "name": "Cheese", "price": 180 }
+    ]
+  },
+  {
+    "name": "Green Masala Dosa",
+    "image": "images/masala-dosa.jpg",
+    "variants": [
+      { "name": "Regular", "price": 160 },
+      { "name": "Cheese", "price": 190 }
+    ]
+  },
+  {
+    "name": "Palak Garlic Masala Dosa",
+    "image": "images/masala-dosa.jpg",
+    "variants": [
+      { "name": "Regular", "price": 160 },
+      { "name": "Cheese", "price": 190 }
+    ]
+  },
+  {
+    "name": "SP. Cheese Masala Dosa",
+    "image": "images/masala-dosa.jpg",
+    "variants": [
+      { "name": "Regular", "price": 210 }
+    ]
+  }
+],
+	"china-town": [
+  {
+    "name": "Chinese Dosa",
+    "image": "images/china-town.jpg",
+    "variants": [
+      { "name": "Regular", "price": 170 },
+      { "name": "Cheese", "price": 200 }
+    ]
+  },
+  {
+    "name": "Sweet Corn Dosa",
+    "image": "images/china-town.jpg",
+    "variants": [
+      { "name": "Regular", "price": 210 },
+      { "name": "Cheese", "price": 230 }
+    ]
+  },
+  {
+    "name": "American Chopsy",
+    "image": "images/china-town.jpg",
+    "variants": [
+      { "name": "Cheese", "price": 210 }
+    ]
+  },
+  {
+    "name": "Shezwan Chopsy",
+    "image": "images/china-town.jpg",
+    "variants": [
+      { "name": "Cheese", "price": 220 }
+    ]
+  },
+  {
+    "name": "Paneer Chilli Dosa",
+    "image": "images/china-town.jpg",
+    "variants": [
+      { "name": "Regular", "price": 210 },
+      { "name": "Cheese", "price": 200 }
+    ]
+  }
+],
+	"fancy-dosa": [
+  {
+    "name": "SP. Patel Dosa",
+    "image": "images/fancy-dosa.jpg",
+    "variants": [
+      { "name": "Regular", "price": 280 }
+    ]
+  },
+  {
+    "name": "Cheese Frenky Dosa",
+    "image": "images/fancy-dosa.jpg",
+    "variants": [
+      { "name": "Regular", "price": 230 }
+    ]
+  },
+  {
+    "name": "Paneer Frenky Dosa",
+    "image": "images/fancy-dosa.jpg",
+    "variants": [
+      { "name": "Regular", "price": 230 }
+    ]
+  },
+  {
+    "name": "Giniroll Cheese Dosa",
+    "image": "images/fancy-dosa.jpg",
+    "variants": [
+      { "name": "Regular", "price": 230 }
+    ]
+  },
+  {
+    "name": "Raja Rani Dosa",
+    "image": "images/fancy-dosa.jpg",
+    "variants": [
+      { "name": "Regular", "price": 230 }
+    ]
+  },
+  {
+    "name": "Dilkhush Dosa",
+    "image": "images/fancy-dosa.jpg",
+    "variants": [
+      { "name": "Regular", "price": 250 }
+    ]
+  },
+  {
+    "name": "Spring Roll Dosa",
+    "image": "images/fancy-dosa.jpg",
+    "variants": [
+      { "name": "Regular", "price": 220 }
+    ]
+  },
+  {
+    "name": "Cheese Tomato Taste",
+    "image": "images/fancy-dosa.jpg",
+    "variants": [
+      { "name": "Regular", "price": 220 }
+    ]
+  },
+  {
+    "name": "Magic Roll Dosa",
+    "image": "images/fancy-dosa.jpg",
+    "variants": [
+      { "name": "Regular", "price": 230 }
+    ]
+  },
+  {
+    "name": "Palak Paneer Dosa",
+    "image": "images/fancy-dosa.jpg",
+    "variants": [
+      { "name": "Regular", "price": 220 }
+    ]
+  },
+  {
+    "name": "Dabeli Dosa",
+    "image": "images/fancy-dosa.jpg",
+    "variants": [
+      { "name": "Regular", "price": 210 }
+    ]
+  },
+  {
+    "name": "Pizza Dosa",
+    "image": "images/fancy-dosa.jpg",
+    "variants": [
+      { "name": "Regular", "price": 230 }
+    ]
+  },
+  {
+    "name": "Mix Veg Dosa",
+    "image": "images/fancy-dosa.jpg",
+    "variants": [
+      { "name": "Regular", "price": 220 }
+    ]
+  },
+  {
+    "name": "Lover Point Dosa",
+    "image": "images/fancy-dosa.jpg",
+    "variants": [
+      { "name": "Regular", "price": 230 }
+    ]
+  },
+  {
+    "name": "Pasta Dosa",
+    "image": "images/fancy-dosa.jpg",
+    "variants": [
+      { "name": "Regular", "price": 220 }
+    ]
+  }
+],
+	"bhaji-sapret-dosa": [
+  {
+    "name": "SP. Gotala Mysore Dosa",
+    "image": "images/bhaji-sapret-dosa.jpg",
+    "variants": [
+      { "name": "Regular", "price": 230 }
+    ]
+  },
+  {
+    "name": "Paneer Bhurji Mysore Dosa",
+    "image": "images/bhaji-sapret-dosa.jpg",
+    "variants": [
+      { "name": "Regular", "price": 220 }
+    ]
+  },
+  {
+    "name": "Paneer Tukda Mysore Dosa",
+    "image": "images/bhaji-sapret-dosa.jpg",
+    "variants": [
+      { "name": "Regular", "price": 220 }
+    ]
+  },
+  {
+    "name": "Mysore Chula Dosa",
+    "image": "images/bhaji-sapret-dosa.jpg",
+    "variants": [
+      { "name": "Regular", "price": 210 }
+    ]
+  },
+  {
+    "name": "Kaju Toofani Gotala",
+    "image": "images/bhaji-sapret-dosa.jpg",
+    "variants": [
+      { "name": "Regular", "price": 270 }
+    ]
+  },
+  {
+    "name": "Paneer Soorma Mysore",
+    "image": "images/bhaji-sapret-dosa.jpg",
+    "variants": [
+      { "name": "Regular", "price": 280 }
+    ]
+  },
+  {
+    "name": "Cheese Soorma Mysore",
+    "image": "images/bhaji-sapret-dosa.jpg",
+    "variants": [
+      { "name": "Regular", "price": 290 }
+    ]
+  },
+  {
+    "name": "Matka Mysore",
+    "image": "images/bhaji-sapret-dosa.jpg",
+    "variants": [
+      { "name": "Regular", "price": 310 }
+    ]
+  },
+  {
+    "name": "Paneer Tikka Mysore",
+    "image": "images/bhaji-sapret-dosa.jpg",
+    "variants": [
+      { "name": "Regular", "price": 230 }
+    ]
+  }
+],
+	"pure-swaminarayan": [
+  {
+    "name": "Masala Dosa",
+    "image": "images/pure-swaminarayan.jpg",
+    "variants": [
+      { "name": "Regular", "price": 170 },
+      { "name": "Cheese", "price": 200 }
+    ]
+  },
+  {
+    "name": "Mysore Masala Dosa",
+    "image": "images/pure-swaminarayan.jpg",
+    "variants": [
+      { "name": "Regular", "price": 160 },
+      { "name": "Cheese", "price": 190 }
+    ]
+  },
+  {
+    "name": "Green Mysore Dosa",
+    "image": "images/pure-swaminarayan.jpg",
+    "variants": [
+      { "name": "Regular", "price": 170 },
+      { "name": "Cheese", "price": 200 }
+    ]
+  },
+  {
+    "name": "Palak Paneer Pasanda Dosa",
+    "image": "images/pure-swaminarayan.jpg",
+    "variants": [
+      { "name": "Regular", "price": 190 }
+    ]
+  },
+  {
+    "name": "Giniroll Dosa",
+    "image": "images/pure-swaminarayan.jpg",
+    "variants": [
+      { "name": "Cheese", "price": 230 }
+    ]
+  },
+  {
+    "name": "Frenky Dosa",
+    "image": "images/pure-swaminarayan.jpg",
+    "variants": [
+      { "name": "Cheese", "price": 230 },
+      { "name": "Paneer", "price": 230 }
+    ]
+  }
+],
+	"pavbhaji": [
+  {
+    "name": "Pavbhaji",
+    "image": "images/pavbhaji.jpg",
+    "variants": [
+      { "name": "Oil", "price": 90 },
+      { "name": "Butter", "price": 130 }
+    ]
+  },
+  {
+    "name": "Green Pavbhaji",
+    "image": "images/pavbhaji.jpg",
+    "variants": [
+      { "name": "Regular", "price": 120 }
+    ]
+  },
+  {
+    "name": "Paneer Pavbhaji",
+    "image": "images/pavbhaji.jpg",
+    "variants": [
+      { "name": "Regular", "price": 130 }
+    ]
+  },
+  {
+    "name": "Cheese Pavbhaji",
+    "image": "images/pavbhaji.jpg",
+    "variants": [
+      { "name": "Regular", "price": 130 }
+    ]
+  },
+  {
+    "name": "Paneer Tadka Pavbhaji",
+    "image": "images/pavbhaji.jpg",
+    "variants": [
+      { "name": "Regular", "price": 130 }
+    ]
+  },
+  {
+    "name": "Lasaniya Pavbhaji",
+    "image": "images/pavbhaji.jpg",
+    "variants": [
+      { "name": "Regular", "price": 110 }
+    ]
+  },
+  {
+    "name": "Swaminarayan Pavbhaji",
+    "image": "images/pavbhaji.jpg",
+    "variants": [
+      { "name": "Regular", "price": 110 }
+    ]
+  },
+  {
+    "name": "Pure Jain Pavbhaji",
+    "image": "images/pavbhaji.jpg",
+    "variants": [
+      { "name": "Regular", "price": 120 }
+    ]
+  },
+  {
+    "name": "Patel Special Pavbhaji",
+    "image": "images/pavbhaji.jpg",
+    "variants": [
+      { "name": "Regular", "price": 140 }
+    ]
+  },
+  {
+    "name": "Masala Pav",
+    "image": "images/pavbhaji.jpg",
+    "variants": [
+      { "name": "Regular", "price": 70 }
+    ]
+  }
+],
+	"pulav": [
+  {
+    "name": "Veg Pulav",
+    "image": "images/pulav.jpg",
+    "variants": [
+      { "name": "Oil", "price": 120 },
+      { "name": "Butter", "price": 130 }
+    ]
+  },
+  {
+    "name": "Veg Cheese Pulav",
+    "image": "images/pulav.jpg",
+    "variants": [
+      { "name": "Regular", "price": 120 }
+    ]
+  },
+  {
+    "name": "Paneer Pulav",
+    "image": "images/pulav.jpg",
+    "variants": [
+      { "name": "Regular", "price": 120 }
+    ]
+  },
+  {
+    "name": "Hydrabadi Pulav (Must Try)",
+    "image": "images/pulav.jpg",
+    "variants": [
+      { "name": "Regular", "price": 140 }
+    ]
+  },
+  {
+    "name": "Bhaji Pulav",
+    "image": "images/pulav.jpg",
+    "variants": [
+      { "name": "Regular", "price": 110 }
+    ]
+  },
+  {
+    "name": "Patel Special Pulav",
+    "image": "images/pulav.jpg",
+    "variants": [
+      { "name": "Regular", "price": 140 }
+    ]
+  },
+  {
+    "name": "Tawa Pulav",
+    "image": "images/pulav.jpg",
+    "variants": [
+      { "name": "Regular", "price": 90 }
+    ]
+  }
+],
+  "beverages": []
+}
