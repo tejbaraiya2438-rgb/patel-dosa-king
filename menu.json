@@ -2,7 +2,7 @@
 	"plain-dosa": [
   {
     "name": "Butter Plain Dosa",
-    "image": "images/plain-dosa.jpg",
+    "image": "Dosa-1.jpg",
     "variants": [
       { "name": "Regular", "price": 80 },
       { "name": "Cheese", "price": 140 }
@@ -100,7 +100,7 @@
 	"mysore-ka-swad": [
   {
     "name": "Butter Mysore Masala Dosa",
-    "image": "images/mysore-ka-swad.jpg",
+    "image": "Mysore-Dosa-1.jpg",
     "variants": [
       { "name": "Regular", "price": 160 },
       { "name": "Cheese", "price": 190 }
@@ -150,7 +150,7 @@
 	"masala-dosa": [
   {
     "name": "Butter Masala Dosa",
-    "image": "images/masala-dosa.jpg",
+    "image": "masala-dosa-1.jpg",
     "variants": [
       { "name": "Regular", "price": 140 },
       { "name": "Cheese", "price": 170 }
